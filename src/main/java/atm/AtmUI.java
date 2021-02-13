@@ -13,7 +13,7 @@ import java.util.Scanner;
 public class AtmUI {
 
 	private ATM atm;
-
+ 
 	@Autowired
 	public AtmUI(ATM atm) {
 		this.atm = atm;

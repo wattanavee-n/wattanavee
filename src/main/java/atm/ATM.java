@@ -10,7 +10,7 @@ import org.springframework.stereotype.Component;
 public class ATM {
 	private Bank bank;
 	private Customer loginCustomer;
-
+ 
 	/**
 	 * Constructs an ATM for a bank.
 	 */

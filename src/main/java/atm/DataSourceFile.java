@@ -25,7 +25,7 @@ public class DataSourceFile implements DataSource {
 
     /**
      * Reads the customer numbers and pins
-     * and initializes the bank accounts.
+     * and initializes the bank accounts. 
      */
     public Map<Integer, Customer> readCustomers() {
 

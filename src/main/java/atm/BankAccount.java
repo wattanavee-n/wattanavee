@@ -18,7 +18,7 @@ public class BankAccount {
 
    /**
     * Constructs a bank account with a given balance.
-    * @param initialBalance the initial balance
+    * @param initialBalance the initia l balance
     */
    public BankAccount(int id, String name, double initialBalance) {
       this.id = id;

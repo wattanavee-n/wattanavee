@@ -16,7 +16,7 @@ public class Customer {
     * @param name the customer name
     * @param pin the personal identification number
     */
-   public Customer(int id, String name, int pin) {
+   public Customer(int id, String name, int pin)  {
       this(id, name, pin, 0);
    }
 
